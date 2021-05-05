@@ -1,26 +1,24 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-import Link from 'next/link'
 import Layout from './components/Layout'
-import fetch from 'isomorphic-unfetch'
 
-export default function Home() {
-  return (
-    <div>
-        <Layout>
-          <Head>
-            <title>Create Next App</title>
-            <link rel="icon" href="/favicon.ico" />
-          </Head>
+function Home() {
+    return (
+        <div>
+            <Layout>
+                <Head>
+                    <title>Nextjs</title>
+                </Head>
 
-          <main>
+                <main>
+                    Content
+                </main>
 
-          </main>
-
-          <footer>
-          
-          </footer>
-        </Layout>
-    </div>
-  )
+                <footer>
+                    Footer
+                </footer>
+            </Layout>
+        </div>
+    )
 }
+
+export default Home;

@@ -6,5 +6,5 @@ export default (req, res) => {
         "name": "Avatar",
         "image": "https://randomuser.me/api/portraits/thumb/men/21.jpg",
         "type": 'Action',
-    }, )
+    },)
 }

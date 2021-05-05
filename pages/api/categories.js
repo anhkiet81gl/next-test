@@ -17,7 +17,7 @@ export default (req, res) => {
                 "image": "https://randomuser.me/api/portraits/thumb/men/21.jpg",
                 "type": 'Cartoon',
             }
-        },   
+        },
         {
             "show": {
                 "id": 3,
@@ -25,7 +25,7 @@ export default (req, res) => {
                 "image": "https://randomuser.me/api/portraits/thumb/men/21.jpg",
                 "type": 'Horor',
             }
-        },   
+        },
         {
             "show": {
                 "id": 4,
@@ -33,6 +33,6 @@ export default (req, res) => {
                 "image": "https://randomuser.me/api/portraits/thumb/men/21.jpg",
                 "type": 'Anime',
             }
-        },       
+        },
     ])
 }
