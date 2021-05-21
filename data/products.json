@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "nội dung này là nội dung 1",
+      "content": "nội dung này là nội dung của bài 2"
+    },
+    {
+      "id": "p2",
+      "title": "nội dung này cần được chỉnh sửa nhé",
+      "content": "test content "
+    },
+    {
+      "id": "p3",
+      "title": "nội dung 3",
+      "content": "nội dung này là nội dung 1"
+    }
+  ]
+}
